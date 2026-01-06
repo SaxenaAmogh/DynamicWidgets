@@ -160,3 +160,15 @@ Given more time, the following enhancements would be implemented:
   - Image Loading
   
     - Use Coil or Glide to load real banner images instead of static text.
+   
+---
+
+## 📱 How to Run
+
+1. Clone the repo  
+   ```
+   git clone https://github.com/SaxenaAmogh/DynamicWidgets.git
+   ```
+3. Open in Android Studio
+4. Sync Gradle
+5. Run on Android Emulator or connected device
